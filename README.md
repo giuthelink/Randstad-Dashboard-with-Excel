@@ -15,7 +15,7 @@ Além disso, tive dificuldades sobre o que deve ser inserido no eixo horizontal 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giuthelink)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:giuliano.br.work@outlook.com)
 
-# Challenge Dashboard about Randstad 📊
+# (us) Challenge Dashboard about Randstad 📊
 
 In this challenge, I used Randstad’s Annual Reports (2024, 2023, 2022) to elaborate Dashboards for this Company. I extracted the most relevant data from the PDF files using Artificial Intelligence to build tables on revenue by region, revenue by segment, KPIs, and financial performance for each of the years mentioned above. Then, I developed informative charts based on the information contained in the tables, using line, column, and bar charts in this challenge, always aiming to provide valuable insights for the company, as well as a clearer view of its current reality.
 
